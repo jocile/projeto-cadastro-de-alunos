@@ -12,15 +12,20 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
+## Requisitos do Cadastro de Alunos
+
 An instantly ready, full-featured online IDE for web development on any device
 with a browser. Enabling you to start new projects quickly and prototype
 rapidly. With CodeSandbox, you can create web apps, experiment with code, test
 ideas, and share creations easily.
 
-## Other CodeSandbox repositories
+## Um pouco sobre o Projeto Integrador
 
-CodeSandbox consists of several separate servers, some of which are open
-sourced.
+O projeto integrador é uma alternativa pedagógica que privilegia a 
+relação dialógica e aprendizagem coletiva. Parte da concepção de que se 
+aprende em comunhão, em experiências e vivências de construção colaborativa, ao assumir responsabilidades em ações conjuntas e promover o protagonismo do aluno diante de situações problematizadoras. A aprendizagem 
+se faz pela experiência proporcionada durante o desenvolvimento do projeto, ou seja, aprende-se problematizando, pesquisando, testando hipóteses, 
+tomando decisões e agindo em equipe para atingir os objetivos
 
 - Client: the web application
 - Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
@@ -30,12 +35,12 @@ sourced.
 - [CLI](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli):
   the CLI to upload a CodeSandbox project from your command line
 
-## Documentation
+## Documentação
 
-You can find our documentation on our
-[website](https://codesandbox.io/docs/learn/introduction/overview)
+Você pode encontrar a documentação no README.md ou no site:
+[Site Jocilé](https://jocile.com/Programador/Desafios/cadastro+de+alunos/_Desafio+cadastro+de+alunos)
 
-## Contributors ✨
+## Integrantes ✨
 
 * Erick Jansen 
 * Marcos Davi 
@@ -44,11 +49,9 @@ You can find our documentation on our
 * Marcos Graziel
 * Davi Andrade
 
+Equipe formada por grandes profissionais!
 
-Thanks goes to these wonderful people
-([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
-
-## Thanks
+## Ogrigado
 
 <a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
 
