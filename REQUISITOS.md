@@ -64,5 +64,4 @@ Equipe formada por grandes profissionais!
 
 <a href="jocile.com"><img src="https://avatars.githubusercontent.com/u/45495068?v=4?s=400" width="120"/></a>
 
-Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
-testing platform that helps us catch unexpected changes.
+Obrigado para [Jocile Serra](https://www.chromaticqa.com/) por nos ajudar nessa trilha no conhecimento nas novas tecnologias.
