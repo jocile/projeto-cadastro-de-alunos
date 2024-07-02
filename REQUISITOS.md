@@ -6,11 +6,6 @@
 
 &nbsp;
 
-[![OláBem-vindo]]
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
-
 ## Requisitos do Cadastro de Alunos
 
 - A proposta é de criar um sistema deinformação, que colete os seguintes dados:
@@ -65,9 +60,9 @@ Você pode encontrar a documentação no README.md ou no site:
 
 Equipe formada por grandes profissionais!
 
-## Obgrigado
+## Obrigado!
 
-<a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
+<a href="jocile.com"><img src="https://avatars.githubusercontent.com/u/45495068?v=4?s=400" width="120"/></a>
 
 Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
 testing platform that helps us catch unexpected changes.
