@@ -37,9 +37,12 @@ You can find our documentation on our
 
 ## Contributors ✨
 
-* Erick Jansen * Davi Andrade
-* Marcos Davi * Marcos Graziel
-* Kauã Oliveira * Silas
+* Erick Jansen 
+* Marcos Davi 
+* Kauã Oliveira 
+* Silas
+* Marcos Graziel
+* Davi Andrade
 
 
 Thanks goes to these wonderful people
