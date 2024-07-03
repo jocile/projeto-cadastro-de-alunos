@@ -1,29 +1,46 @@
-<p align="center">
-  <a href="https://www.senac.br/">
-    <img src="senac.jfif" height="300px">
-  </a>
-</p>
-
-&nbsp;
-
-## Requisitos do Cadastro de Alunos
+## :sparkles: Características do Cadastro de Alunos
 
 A proposta é de criar um sistema deinformação, que colete os seguintes dados:
 
-* nome,
-* sexo,
-* endereço,
-* cidade,
-* estado,
-* CEP,
-* telefone,
-* data de nascimento,
-* RG,
-* nome do pai,
-* nome da mãe
-* grau de escolaridade
+* Nome do Aluno
+* Data de Nascimento
+* Gênero
+* Responsável
+* RG do aluno
+* Estado
+* Cidade
+* Endereço e numero
+* Num. Celular
+* Num. Celular Emergência
+* Grau de Escolaridade
 
 > O programa deve receber esses dados, editar esses dados, atualizar esses dados e deletar esses dados.
+
+### Backend
+Menu Principal: 
+
+ 1. Cadastrar Aluno
+ 2. Consultar Aluno
+ 3. Excluir Aluno  
+ 4. Sair
+ Digite sua opção: 
+ --> 
+
+ - Classifique os dados segundo os tipos das variáveis (numéricos, literais ou lógicos) que irão armazená-los.
+
+Variáveis literais: nome do aluno, sexo, endereço, cidade, estado, nome do pai, nome da mãe.
+Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolaridade.
+
+### Frontend
+
+- Menu de Ações do APP:
+  - Cadastrar ALuno
+  - Consultar ALuno
+  - Excluir Aluno
+  - Listar Alunos
+  - Sair
+
+
 
 ## Um pouco sobre o Projeto Integrador
 
@@ -41,17 +58,6 @@ tomando decisões e agindo em equipe para atingir os objetivos
 
 Você pode encontrar a documentação no README.md ou no site:
 [Site Jocilé](https://jocile.com/Programador/Desafios/cadastro+de+alunos/_Desafio+cadastro+de+alunos)
-
-## Integrantes ✨
-
-* Erick Jansen 
-* Marcos Davi 
-* Kauã Oliveira 
-* Silas
-* Marcos Graziel
-* Davi Andrade
-
-Equipe formada por grandes profissionais!
 
 ## Obrigado!
 

@@ -48,6 +48,29 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Um pouco sobre o Projeto Integrador
+
+O projeto integrador é uma alternativa pedagógica que privilegia a 
+relação dialógica e aprendizagem coletiva. Parte da concepção de que se 
+aprende em comunhão, em experiências e vivências de construção colaborativa, ao assumir responsabilidades em ações conjuntas e promover o protagonismo do aluno diante de situações problematizadoras. A aprendizagem 
+se faz pela experiência proporcionada durante o desenvolvimento do projeto, ou seja, aprende-se problematizando, pesquisando, testando hipóteses, 
+tomando decisões e agindo em equipe para atingir os objetivos
+
+
+- Senac metodologia: [ModeloPedagógico](https://extranet.senac.br/modelopedagogicosenac/pcs/doctec/2022/DocTec4_Integrador_2022.pdf)
+
+
+## Documentação
+
+Você pode encontrar a documentação no README.md ou no site:
+[Site Jocilé](https://jocile.com/Programador/Desafios/cadastro+de+alunos/_Desafio+cadastro+de+alunos)
+
+## Obrigado!
+
+<a href="jocile.com"><img src="https://avatars.githubusercontent.com/u/45495068?v=4?s=400" width="120"/></a>
+
+Obrigado para [Jocile Serra](https://jocile.com/Bem-vindo) por nos ajudar nessa trilha no conhecimento nas novas tecnologias.
+
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
