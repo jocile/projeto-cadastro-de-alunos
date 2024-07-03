@@ -1,4 +1,4 @@
-# :cyclone: Fluxo Principal De Requisitos:
+## :cyclone: Fluxo Principal De Requisitos:
 1. O usuário seleciona a opção "Adicionar Novo Aluno".
 2. O sistema solicita as informações do aluno (nome, idade, matrícula, curso).
 3. O usuário insere as informações e confirma.
@@ -14,10 +14,12 @@ A proposta é de criar um sistema deinformação, que colete os seguintes dados:
 * Gênero
 * Responsável
 * CPF do aluno
+* CPF do responsável
 * Estado
 * Cidade
+* CEP
 * Endereço e numero
-* Num. Celular
+* Num. Celular do ALuno
 * Num. Celular do Responsável
 * Grau de Escolaridade
 
