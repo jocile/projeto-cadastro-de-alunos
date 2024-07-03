@@ -18,7 +18,7 @@ A proposta é de criar um sistema deinformação, que colete os seguintes dados:
 * Cidade
 * Endereço e numero
 * Num. Celular
-* Num. Celular Emergência
+* Num. Celular do Responsável
 * Grau de Escolaridade
 
 > O programa deve receber esses dados, editar esses dados, atualizar esses dados e deletar esses dados.
