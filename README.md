@@ -103,7 +103,7 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
 - Janela de Erro - Atributo vazio
 
 ## Colaboradores
-### RESPONSAVEIS PELO README E O CONSULTAR ALUNO
+### :ghost: RESPONSAVEIS PELO README E O CONSULTAR ALUNO
 <table>
   <tbody>
     <tr>
@@ -112,7 +112,7 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
   </tbody>
 </table>
 
-### RESPONSAVEIS POR CADASTRAR E EXCLUIR ALUNO E A CRIAÇÃO DOS DIAGRAMAS DE CASO DE USO E DESCREVENDO PROJETO
+### :eyes: RESPONSAVEIS POR CADASTRAR E EXCLUIR ALUNO E A CRIAÇÃO DOS DIAGRAMAS DE CASO DE USO E DESCREVENDO PROJETO
 
 <table>
   <tbody>
@@ -122,7 +122,7 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
   </tbody>
 </table>
 
-### RESPONSAVEIS PELO FRONT END, BANCO DE DADOS E REQUISITOS
+### :night_with_stars: RESPONSAVEIS PELO FRONT END, BANCO DE DADOS E REQUISITOS
 
 <table>
   <tbody>
