@@ -107,27 +107,27 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/1a4b66cc-5e49-401f-8612-e4df0bbc7ff0" width="100px;" alt="Marcos David e Marcos Graziel"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/1a4b66cc-5e49-401f-8612-e4df0bbc7ff0" width="400px;" alt="Marcos David e Marcos Graziel"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
 
-### :eyes: RESPONSAVEIS POR CADASTRAR E EXCLUIR ALUNO E A CRIAÇÃO DOS DIAGRAMAS DE CASO DE USO E DESCREVENDO PROJETO
+### :robot: RESPONSAVEIS POR CADASTRAR E EXCLUIR ALUNO E A CRIAÇÃO DOS DIAGRAMAS DE CASO DE USO E DESCREVENDO PROJETO
 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/4285abd4-81ae-4d21-b3d0-9cf1258b032c" width="100px;" alt="David Andrade e Erik Jasen"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/4285abd4-81ae-4d21-b3d0-9cf1258b032c" width="400px;" alt="David Andrade e Erik Jasen"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
 
-### :night_with_stars: RESPONSAVEIS PELO FRONT END, BANCO DE DADOS E REQUISITOS
+### :frog: RESPONSAVEIS PELO FRONT END, BANCO DE DADOS E REQUISITOS
 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/49f83ab8-e2aa-460b-b2df-79602254ea35" width="100px;" alt="Kauã e Madson"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/49f83ab8-e2aa-460b-b2df-79602254ea35" width="400px;" alt="Kauã e Madson"/><br /><sub><b>Nobru Apelão</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
