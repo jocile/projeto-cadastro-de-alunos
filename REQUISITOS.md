@@ -1,9 +1,9 @@
 # Fluxo Principal De Requisitos:
-O usuário seleciona a opção "Adicionar Novo Aluno".
-O sistema solicita as informações do aluno (nome, idade, matrícula, curso).
-O usuário insere as informações e confirma.
-O sistema valida as informações e adiciona o novo aluno no banco de dados.
-O sistema confirma a adição do aluno e exibe os detalhes inseridos.
+1. O usuário seleciona a opção "Adicionar Novo Aluno".
+2. O sistema solicita as informações do aluno (nome, idade, matrícula, curso).
+3. O usuário insere as informações e confirma.
+4. O sistema valida as informações e adiciona o novo aluno no banco de dados.
+5. O sistema confirma a adição do aluno e exibe os detalhes inseridos.
 
 ## :sparkles: Características do Cadastro de Alunos
 
