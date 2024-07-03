@@ -1,4 +1,4 @@
-# Fluxo Principal De Requisitos:
+# :cyclone: Fluxo Principal De Requisitos:
 1. O usuário seleciona a opção "Adicionar Novo Aluno".
 2. O sistema solicita as informações do aluno (nome, idade, matrícula, curso).
 3. O usuário insere as informações e confirma.
@@ -23,7 +23,7 @@ A proposta é de criar um sistema deinformação, que colete os seguintes dados:
 
 > O programa deve receber esses dados, editar esses dados, atualizar esses dados e deletar esses dados.
 
-### Backend
+### :space_invader: Backend
 Menu Principal: 
 
  1. Cadastrar Aluno
@@ -39,7 +39,7 @@ Menu Principal:
 Variáveis literais: nome do aluno, sexo, endereço, cidade, estado, nome do pai, nome da mãe.
 Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolaridade.
 
-### Frontend
+### :computer: Frontend
 
 - Menu de Ações do APP:
   - Cadastrar ALuno
