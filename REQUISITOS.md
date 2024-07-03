@@ -1,3 +1,10 @@
+# Fluxo Principal De Requisitos:
+O usuário seleciona a opção "Adicionar Novo Aluno".
+O sistema solicita as informações do aluno (nome, idade, matrícula, curso).
+O usuário insere as informações e confirma.
+O sistema valida as informações e adiciona o novo aluno no banco de dados.
+O sistema confirma a adição do aluno e exibe os detalhes inseridos.
+
 ## :sparkles: Características do Cadastro de Alunos
 
 A proposta é de criar um sistema deinformação, que colete os seguintes dados:
@@ -6,7 +13,7 @@ A proposta é de criar um sistema deinformação, que colete os seguintes dados:
 * Data de Nascimento
 * Gênero
 * Responsável
-* RG do aluno
+* CPF do aluno
 * Estado
 * Cidade
 * Endereço e numero
