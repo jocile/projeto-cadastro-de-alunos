@@ -34,6 +34,7 @@ Menu Principal:
  4. Sair
  Digite sua opção: 
  --> 
+`           `
 
 - Funcionalidades essenciais: adicionar aluno, excluir aluno, consultar aluno.
 - Classifique os dados segundo os tipos das variáveis (numéricos, literais ou lógicos) que irão armazená-los.
