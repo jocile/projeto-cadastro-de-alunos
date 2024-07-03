@@ -11,6 +11,7 @@ Matrícula do Aluno (README)
 
 1.3. Excluir Alunos. Você poderá pesquisar o aluno que deseja excluir com o uso da matrícula do mesmo. Ao inserir a matrícula o programa retornará com uma pergunta para confirmação da exclusão do aluno, mostrando seu nome e matrícula. Caso o usuário queira confirmar a exclusão deve digitar "s" e teclar "Enter", caso deseje cancelar será necessário apenas declar "Enter".
 
+```mermaid
 classDiagram
     Aluno <|-- Cursos
     Aluno <|-- Boletim
@@ -35,5 +36,5 @@ classDiagram
       +String Geografia
 
     }
-
+```
     
