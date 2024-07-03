@@ -33,7 +33,8 @@ Menu Principal:
  Digite sua opção: 
  --> 
 
- - Classifique os dados segundo os tipos das variáveis (numéricos, literais ou lógicos) que irão armazená-los.
+- Funcionalidades essenciais: adicionar aluno, excluir aluno, consultar aluno.
+- Classifique os dados segundo os tipos das variáveis (numéricos, literais ou lógicos) que irão armazená-los.
 
 Variáveis literais: nome do aluno, sexo, endereço, cidade, estado, nome do pai, nome da mãe.
 Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolaridade.
@@ -47,3 +48,6 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
   - Listar Alunos
   - Sair
 
+- Janelas para cada ação executada pelo usuário
+
+- Janela de Erro - Atributo vazio
