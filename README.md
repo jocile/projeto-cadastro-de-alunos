@@ -56,9 +56,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://scontent-for1-1.cdninstagram.com/v/t51.2885-19/438582001_427559419868914_3435227086112732466_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-for1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=I8UFUapdwAEQ7kNvgGmQc9y&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYAune99rBUORbmI9CH5G3PhpDBYgP1HLzMz41plJ7IFlg&oe=668B3C30&_nc_sid=8f1549" width="100px;" alt="Foto do Maravilhoso Kauã Oliveira"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Kauã Oliveira</b>
         </sub>
       </a>
     </td>
