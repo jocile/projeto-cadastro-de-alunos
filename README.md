@@ -117,7 +117,7 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/4285abd4-81ae-4d21-b3d0-9cf1258b032c" width="400px;" alt="Davi Andrade e Erik Jasen"/><br /><sub><b>David Andrade e Erick Jansen</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jocile.com/Programador/Python/testes/Testes+automatizados+exemplo"><img src="https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/4285abd4-81ae-4d21-b3d0-9cf1258b032c" width="400px;" alt="Davi Andrade e Erick Jansen"/><br /><sub><b>Davi Andrade e Erick Jansen</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
