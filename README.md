@@ -1,4 +1,4 @@
-<<<<<<< main
+
 # Sistema de Gerenciamento de Alunos Do Curso de Progamação do Senac
 
 <img src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/09/senac-logomarca.jpg?w=860&ssl=1" alt="Exemplo imagem">
@@ -193,7 +193,3 @@ Diagrama de casos de uso:
 
 <img src="https://github.com/jocile/projeto-cadastro-de-alunos/assets/168863319/50f80729-09b1-4e2b-af73-8c8dc4e0f28c" width="800">
 
-
-
-
->>>>>>> main
